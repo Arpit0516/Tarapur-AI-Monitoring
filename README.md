@@ -32,8 +32,11 @@ This project uses Machine Learning and environmental parameters to monitor indus
 
 ## Output
 
-![Feature Importance](images/image1.jpg)
-![Smart Alert System](images/image2.jpg)
+### Smart Alert System Output
+![Smart Alert System](images/image1.jpeg)
+
+### Compliance Report
+![Compliance Report](images/image2.jpeg)
 
 - Safe/Critical Classification
 - Toxicity Warning
